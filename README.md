@@ -1,3 +1,7 @@
+Nama: Satria Ade Veda Karuniawan<br>
+NRP: 05111740000130<br>
+Kelas: Big Data<br>
+
 # Local Big Data Irish Meter (Time Series)
 
 ![Workflow](https://github.com/DJahvoe/Local_Big_Data_Irish_Meter/blob/master/screenshot/workflow.jpg)
